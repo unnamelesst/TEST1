@@ -16,4 +16,4 @@
 * Выполнила студентка: Едрукова.А
 * Проверил: Литвинов И.В.
 
-     $ Console.Writeline("Hello World!");
+     $ Console.WriteLine("Hello World!");
